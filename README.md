@@ -1,2 +1,2 @@
-# ml-udemy-2020
-Udemy Python ML Course 2020
+# Python-Data-Science-and-Machine-Learning-Bootcamp
+Repo for Python Data Science and Machine Learning Bootcamp
